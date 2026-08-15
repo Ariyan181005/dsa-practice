@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ariyan181005/dsa-practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/0013-roman-to-integer) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ariyan181005/dsa-practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/0013-roman-to-integer) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ariyan181005/dsa-practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
