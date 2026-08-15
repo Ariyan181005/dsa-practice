@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ariyan181005/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ariyan181005/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0015-3sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ariyan181005/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ariyan181005/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ariyan181005/dsa-practice/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
