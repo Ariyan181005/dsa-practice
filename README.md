@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ariyan181005/dsa-practice/tree/master/0012-integer-to-roman) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ariyan181005/dsa-practice/tree/master/0012-integer-to-roman) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Ariyan181005/dsa-practice/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
