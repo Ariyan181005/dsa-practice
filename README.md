@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ariyan181005/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ariyan181005/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/0013-roman-to-integer) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ariyan181005/dsa-practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ariyan181005/dsa-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
