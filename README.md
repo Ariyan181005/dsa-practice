@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ariyan181005/dsa-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ariyan181005/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ariyan181005/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ariyan181005/dsa-practice/tree/master/0054-spiral-matrix) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -191,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ariyan181005/dsa-practice/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Ariyan181005/dsa-practice/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ariyan181005/dsa-practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Ariyan181005/dsa-practice/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
