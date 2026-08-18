@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ariyan181005/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Ariyan181005/dsa-practice/tree/master/0048-rotate-image) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ariyan181005/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ariyan181005/dsa-practice/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Ariyan181005/dsa-practice/tree/master/0048-rotate-image) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ariyan181005/dsa-practice/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ariyan181005/dsa-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
