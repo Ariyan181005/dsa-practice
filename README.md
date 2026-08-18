@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ariyan181005/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ariyan181005/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ariyan181005/dsa-practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ariyan181005/dsa-practice/tree/master/0056-merge-intervals) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ariyan181005/dsa-practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ariyan181005/dsa-practice/tree/master/0056-merge-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ariyan181005/dsa-practice/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ariyan181005/dsa-practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
