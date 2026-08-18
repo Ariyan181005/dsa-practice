@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0045-jump-game-ii) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ariyan181005/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
