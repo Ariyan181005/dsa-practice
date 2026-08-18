@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ariyan181005/dsa-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0047-permutations-ii) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ariyan181005/dsa-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ariyan181005/dsa-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
