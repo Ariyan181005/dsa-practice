@@ -7,9 +7,7 @@ class Solution(object):
         if n <= 2:
             return n
         a = 1
-        b = 1
-        for i in range(n):
-            c = a + b
-            a = b
-            b = c
-        return a
+        b = 2
+        for i in range(3, n + 1):
+            a, b = b, a + b
+        return b
