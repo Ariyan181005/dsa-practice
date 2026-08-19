@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Ariyan181005/dsa-practice/tree/master/0066-plus-one) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ariyan181005/dsa-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ariyan181005/dsa-practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Ariyan181005/dsa-practice/tree/master/0066-plus-one) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 ## Two Pointers
