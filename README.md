@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ariyan181005/dsa-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ariyan181005/dsa-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ariyan181005/dsa-practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ariyan181005/dsa-practice/tree/master/0070-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Ariyan181005/dsa-practice/tree/master/0070-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ariyan181005/dsa-practice/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ariyan181005/dsa-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
