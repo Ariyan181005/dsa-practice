@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         m, n = len(grid), len(grid[0])
-        dp = [[i]* n for i in range(m)]
+        dp = [[0]* n for _ in range(m)]
         dp[0][0] = grid[0][0]
         for i in range(m):
             for j in range(n):
