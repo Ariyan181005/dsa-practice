@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ariyan181005/dsa-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ariyan181005/dsa-practice/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ariyan181005/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ariyan181005/dsa-practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ariyan181005/dsa-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ariyan181005/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0063-unique-paths-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
