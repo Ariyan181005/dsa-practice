@@ -1,3 +1,4 @@
+from collections import defaultdict
 class Solution(object):
     def maxNumberOfFamilies(self, n, reservedSeats):
         """
@@ -5,18 +6,16 @@ class Solution(object):
         :type reservedSeats: List[List[int]]
         :rtype: int
         """
-        reserved = {}
+        rows = defaultdict(set)
         for r, s in reservedSeats:
-            if r not in reserved:
-                reserved[r] = set()
-            reserved[r].add(s)
-        result = (n - len(reserved)) * 2
-        for seats in reserved.values():
-            lt = all(s not in seats for s in [2, 3, 4, 5])
-            mid = all(s not in seats for s in [4, 5, 6, 7])
-            rt = all(s not in seats for s in [6, 7, 8, 9])
+            rows[r].add(s)
+        ans = (n - len(rows)) * 2
+        for seats in rows.values():
+            lt = not ({2, 3, 4, 5} & seats)
+            mid = not ({4, 5, 6, 7} & seats)
+            rt = not ({6, 7, 8, 9} & seats)
             if lt and rt:
-                result += 2
+                ans += 2
             elif lt or mid or rt:
-                result += 1
-        return result
+                ans += 1
+        return ans
