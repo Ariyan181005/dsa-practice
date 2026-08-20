@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ariyan181005/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ariyan181005/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ariyan181005/dsa-practice/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Ariyan181005/dsa-practice/tree/master/0071-simplify-path) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ariyan181005/dsa-practice/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
