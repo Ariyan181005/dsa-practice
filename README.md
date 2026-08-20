@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ariyan181005/dsa-practice/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Ariyan181005/dsa-practice/tree/master/0075-sort-colors) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ariyan181005/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ariyan181005/dsa-practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Ariyan181005/dsa-practice/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ariyan181005/dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ariyan181005/dsa-practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ariyan181005/dsa-practice/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ariyan181005/dsa-practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ariyan181005/dsa-practice/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ariyan181005/dsa-practice/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ariyan181005/dsa-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
