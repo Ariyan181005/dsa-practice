@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ariyan181005/dsa-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ariyan181005/dsa-practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ariyan181005/dsa-practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ariyan181005/dsa-practice/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Simulation
 |  |
 | ------- |
