@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ariyan181005/dsa-practice/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -302,4 +303,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
