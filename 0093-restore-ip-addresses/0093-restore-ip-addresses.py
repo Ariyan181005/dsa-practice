@@ -4,26 +4,28 @@ class Solution(object):
         :type s: str
         :rtype: List[str]
         """
+        n = len(s)
         res = []
-        def bt(index, parts):
+        stack = [(0, [])]
+        while stack:
+            start, parts = stack.pop()
             if len(parts) == 4:
-                if index == len(s):
-                    res.append(".".join(parts))
-                return
-            remaining = len(s) - index
-            slots = 4 - len(parts)
-            if remaining < slots or remaining > slots * 3:
-                return
+                if start == n:
+                    res.append('.'.join(parts))
+                continue
+            remaining_slots = 4 - len(parts)
+            remaining_chars = n - start
+            if remaining_chars < remaining_slots:
+                continue
+            if remaining_chars > remaining_slots * 3:
+                continue
             for length in range(1, 4):
-                if index + length > len(s):
+                if start + length > n:
                     break
-                part = s[index:index + length]
-                if len(part) > 1 and part[0] == '0':
-                    break
-                if int(part) > 255:
-                    break
-                parts.append(part)
-                bt(index + length, parts)
-                parts.pop()
-        bt(0, [])
+                seg = s[start:start + length]
+                if len(seg) > 1 and seg[0] == '0':
+                    continue
+                if int(seg) > 255:
+                    continue
+                stack.append((start + length, parts + [seg]))
         return res
