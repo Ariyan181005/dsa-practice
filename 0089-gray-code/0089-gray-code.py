@@ -4,7 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: List[int]
         """
-        a=[]
+        result=[]
         for i in range(1<<n):
-            a.append(i^(i>>1))
-        return a
+            result.append(i^(i>>1))
+        return result
