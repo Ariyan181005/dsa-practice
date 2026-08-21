@@ -5,6 +5,8 @@ class Solution(object):
         :rtype: List[int]
         """
         result=[]
+
         for i in range(1<<n):
             result.append(i^(i>>1))
+            
         return result
