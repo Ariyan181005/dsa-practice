@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ariyan181005/dsa-practice/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ariyan181005/dsa-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ariyan181005/dsa-practice/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Ariyan181005/dsa-practice/tree/master/0091-decode-ways) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ariyan181005/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ariyan181005/dsa-practice/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Ariyan181005/dsa-practice/tree/master/0091-decode-ways) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
