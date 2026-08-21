@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ariyan181005/dsa-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ariyan181005/dsa-practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Ariyan181005/dsa-practice/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/Ariyan181005/dsa-practice/tree/master/0093-restore-ip-addresses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ariyan181005/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Ariyan181005/dsa-practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Ariyan181005/dsa-practice/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
