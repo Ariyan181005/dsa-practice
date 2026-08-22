@@ -11,17 +11,17 @@ class Solution(object):
         :rtype: None Do not return anything, modify root in-place instead.
         """
         first = [None]
-        sec = [None]
+        second = [None]
         prev = [None]
-        def inorder(node):
+        def dfs(node):
             if node is None:
                 return
-            inorder(node.left)
-            if prev[0] and prev[0].val > node.val:
+            dfs(node.left)
+            if prev[0] is not None and prev[0].val > node.val:
                 if first[0] is None:
                     first[0] = prev[0]
-                sec[0] = node
+                second[0] = node
             prev[0] = node
-            inorder(node.right)
-        inorder(root)
-        first[0].val, sec[0].val = sec[0].val, first[0].val
+            dfs(node.right)
+        dfs(root)
+        first[0].val, second[0].val = second[0].val, first[0].val
