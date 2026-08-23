@@ -10,15 +10,13 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: None Do not return anything, modify root in-place instead.
         """
-        if not root:
-            return
-        self.flatten(root.left)
-        self.flatten(root.right)
-        if root.left:
-            temp=root.right
-            root.right=root.left
-            root.left=None
-            cur=root.right
-            while cur.right:
-                cur=cur.right
-            cur.right=temp
+        self.prev = None
+        def dfs(node):
+            if not node:
+                return
+            dfs(node.right)
+            dfs(node.left)
+            node.right = self.prev
+            node.left = None
+            self.prev = node
+        dfs(root)
