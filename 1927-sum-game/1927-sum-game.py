@@ -5,19 +5,8 @@ class Solution(object):
         :rtype: bool
         """
         n = len(num)
-        half = n // 2
-        left_sum = right_sum = 0
-        left_q = right_q = 0
-        for i in range(half):
-            if num[i] == '?':
-                left_q += 1
-            else:
-                left_sum += int(num[i])
-        for i in range(half, n):
-            if num[i] == '?':
-                right_q += 1
-            else:
-                right_sum += int(num[i])
-        if (left_q + right_q) % 2 == 1:
-            return True
-        return 2 * (left_sum - right_sum) != 9 * (right_q - left_q)
+        cnt1 = num[: n // 2].count("?")
+        cnt2 = num[n // 2 :].count("?")
+        s1 = sum(int(x) for x in num[: n // 2] if x != "?")
+        s2 = sum(int(x) for x in num[n // 2 :] if x != "?")
+        return (cnt1 + cnt2) % 2 == 1 or s1 - s2 != 9 * (cnt2 - cnt1) // 2
