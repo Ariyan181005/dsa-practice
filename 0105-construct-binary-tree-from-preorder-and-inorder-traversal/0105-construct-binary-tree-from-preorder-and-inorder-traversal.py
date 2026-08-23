@@ -11,13 +11,16 @@ class Solution(object):
         :type inorder: List[int]
         :rtype: Optional[TreeNode]
         """
-        if not preorder or not inorder:
-            return None
-        r=preorder[0]
-        idx=inorder.index(r)
-        lt=self.buildTree(preorder[1:idx+1],inorder[:idx])
-        rt=self.buildTree(preorder[idx+1:],inorder[idx+1:])
-        root = TreeNode(r)
-        root.left = lt
-        root.right = rt
-        return root
+        inorder_map = {val: i for i, val in enumerate(inorder)}
+        self.index = -1
+        def build(left, right):
+            if left > right:
+                return None
+            self.index += 1
+            val = preorder[self.index]
+            node = TreeNode(val)
+            mid = inorder_map[val]
+            node.left = build(left, mid - 1)
+            node.right = build(mid + 1, right)
+            return node
+        return build(0, len(inorder) - 1)
