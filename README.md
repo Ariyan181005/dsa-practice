@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -394,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
