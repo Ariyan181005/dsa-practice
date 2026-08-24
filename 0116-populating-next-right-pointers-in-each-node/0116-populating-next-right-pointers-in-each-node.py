@@ -15,16 +15,13 @@ class Solution(object):
         """
         if not root:
             return root
-        lev=[root]
-        while lev:
-            for i in range(len(lev)-1):
-                lev[i].next=lev[i+1]
-            lev[-1].next=None
-            nxt_lev=[]
-            for n in lev:
-                if n.left:
-                    nxt_lev.append(n.left)
-                if n.right:
-                    nxt_lev.append(n.right)
-            lev=nxt_lev
+        leftmost = root
+        while leftmost.left:
+            current = leftmost
+            while current:
+                current.left.next = current.right
+                if current.next:
+                    current.right.next = current.next.left
+                current = current.next
+            leftmost = leftmost.left
         return root
