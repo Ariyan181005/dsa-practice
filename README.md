@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ariyan181005/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ariyan181005/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -459,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
