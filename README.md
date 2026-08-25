@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ariyan181005/dsa-practice/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ariyan181005/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Ariyan181005/dsa-practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ariyan181005/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
