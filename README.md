@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ariyan181005/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Ariyan181005/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Ariyan181005/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ariyan181005/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Ariyan181005/dsa-practice/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ariyan181005/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ariyan181005/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Ariyan181005/dsa-practice/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -484,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ariyan181005/dsa-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
