@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ariyan181005/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ariyan181005/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ariyan181005/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ariyan181005/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -451,4 +455,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
