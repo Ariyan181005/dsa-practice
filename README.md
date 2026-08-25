@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ariyan181005/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Ariyan181005/dsa-practice/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Ariyan181005/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Ariyan181005/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ariyan181005/dsa-practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ariyan181005/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ariyan181005/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ariyan181005/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -358,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ariyan181005/dsa-practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -474,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
