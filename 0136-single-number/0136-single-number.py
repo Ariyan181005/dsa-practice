@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        res = 0
         for i in nums:
-            if nums.count(i)==1:
-                return i
+            res ^=i
+        return res
