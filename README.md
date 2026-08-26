@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ariyan181005/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Ariyan181005/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Ariyan181005/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Ariyan181005/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
