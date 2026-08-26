@@ -18,8 +18,5 @@ class Solution(object):
                 elif i == "*":
                     st.append(a * b)
                 else:
-                    if a*b<0:
-                        st.append(-((-a)//b))
-                    else:
-                        st.append(a // b)
+                    st.append(int(float(a) / b))
         return st[-1]
