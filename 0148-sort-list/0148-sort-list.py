@@ -9,6 +9,8 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
+        #hard way
+        """
         if not head or not head.next:
             return head
         s=head
@@ -35,3 +37,16 @@ class Solution(object):
         if rt:
             curr.next=rt
         return dummy.next
+        """
+        #easy way
+        vals = []
+        start = head
+        while start!=None:
+            vals.append(start.val)
+            start = start.next
+        vals.sort()
+        start = head
+        for x in vals:
+            start.val = x
+            start=start.next
+        return head
