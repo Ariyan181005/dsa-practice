@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ariyan181005/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ariyan181005/dsa-practice/tree/master/0146-lru-cache) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ariyan181005/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Ariyan181005/dsa-practice/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -509,4 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ariyan181005/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ariyan181005/dsa-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ariyan181005/dsa-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
