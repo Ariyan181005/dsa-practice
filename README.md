@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ariyan181005/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ariyan181005/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ariyan181005/dsa-practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Ariyan181005/dsa-practice/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ariyan181005/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ariyan181005/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
