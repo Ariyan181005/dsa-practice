@@ -6,7 +6,7 @@ class Solution(object):
         """
         st = []
         for i in tokens:
-            if i not in ["+", "-", "*", "/"]:
+            if i not in "+-*/":
                 st.append(int(i))
             else:
                 b = st.pop()
