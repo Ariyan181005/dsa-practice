@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        """
         if len(nums)<2:
             return 0
         nums.sort()
@@ -11,3 +12,9 @@ class Solution(object):
         for i in range(1,len(nums)):
             ans=max(ans,nums[i]-nums[i-1])
         return ans
+        """
+        diff,n=0,sorted(set(nums))
+        for i in range(len(n)-1):
+            if n[i+1]-n[i] > diff:
+                diff = n[i+1] - n[i]
+        return(diff)
