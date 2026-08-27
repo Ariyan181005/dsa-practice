@@ -5,26 +5,26 @@ class Solution(object):
         :type denominator: int
         :rtype: str
         """
-        if numerator == 0:
+        if not numerator:
             return "0"
-        sign = ""
-        if (numerator < 0) != (denominator < 0):
-            sign = "-"
-        numerator = abs(numerator)
-        denominator = abs(denominator)
-        ans = sign + str(numerator // denominator)
-        rem = numerator % denominator
-        if rem == 0:
-            return ans
-        ans += "."
+        result = []
+        if (numerator < 0) ^ (denominator < 0):
+            result.append("-")
+        num = abs(numerator)
+        den = abs(denominator)
+        result.append(str(num // den))
+        num %= den
+        if not num:
+            return "".join(result)
+        result.append(".")
         seen = {}
-        while rem != 0:
-            if rem in seen:
-                pos = seen[rem]
-                ans = ans[:pos] + "(" + ans[pos:] + ")"
-                return ans
-            seen[rem] = len(ans)
-            rem *= 10
-            ans += str(rem // denominator)
-            rem %= denominator
-        return ans
+        while num:
+            if num in seen:
+                result.insert(seen[num], "(")
+                result.append(")")
+                break
+            seen[num] = len(result)
+            num *= 10
+            result.append(str(num // den))
+            num %= den
+        return "".join(result)
