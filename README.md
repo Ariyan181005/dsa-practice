@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Ariyan181005/dsa-practice/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ariyan181005/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Ariyan181005/dsa-practice/tree/master/0190-reverse-bits) |
 ## Quicksort
 |  |
 | ------- |
