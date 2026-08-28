@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ariyan181005/dsa-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ariyan181005/dsa-practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Ariyan181005/dsa-practice/tree/master/0200-number-of-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ariyan181005/dsa-practice/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ariyan181005/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ariyan181005/dsa-practice/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Ariyan181005/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ariyan181005/dsa-practice/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ariyan181005/dsa-practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ariyan181005/dsa-practice/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
