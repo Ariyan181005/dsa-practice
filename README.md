@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Ariyan181005/dsa-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Ariyan181005/dsa-practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Ariyan181005/dsa-practice/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ariyan181005/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0179-largest-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ariyan181005/dsa-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ariyan181005/dsa-practice/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0179-largest-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Ariyan181005/dsa-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0179-largest-number) |
 ## Linked List
 |  |
 | ------- |
