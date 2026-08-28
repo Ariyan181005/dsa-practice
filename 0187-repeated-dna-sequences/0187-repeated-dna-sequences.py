@@ -16,11 +16,12 @@ class Solution(object):
         return list(ans)
         """
         seen = set()
-        repeated = set()
+        ans = []
         for i in range(len(s) - 9):
-            seq = s[i:i + 10]
-            if seq in seen:
-                repeated.add(seq)
+            x = s[i:i+10]
+            if x in seen:
+                if x not in ans:
+                    ans.append(x)
             else:
-                seen.add(seq)
-        return list(repeated)  
+                seen.add(x)
+        return ans
