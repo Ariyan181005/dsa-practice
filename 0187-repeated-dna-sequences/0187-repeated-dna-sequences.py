@@ -17,11 +17,14 @@ class Solution(object):
         """
         seen = set()
         ans = []
+
         for i in range(len(s) - 9):
             x = s[i:i+10]
+
             if x in seen:
                 if x not in ans:
                     ans.append(x)
             else:
                 seen.add(x)
+
         return ans
