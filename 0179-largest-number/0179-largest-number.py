@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: str
         """
+        """
         nums=[str(x)for x in nums]
         n=len(nums)
         for i in range(n):
@@ -14,3 +15,9 @@ class Solution(object):
         if ans[0]=='0':
             return '0'
         return ans
+        """
+        nums = list(map(str, nums))
+        nums.sort(key=lambda x: x * 10, reverse=True)
+        if nums[0] == "0":
+            return "0"
+        return ''.join(nums)
