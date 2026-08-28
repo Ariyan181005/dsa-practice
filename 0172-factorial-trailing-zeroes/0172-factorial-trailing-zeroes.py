@@ -4,6 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
+        """
         def fact(a):
             if a==0 or a==1:
                 return 1
@@ -16,3 +17,9 @@ class Solution(object):
             else:
                 break
         return c
+        """
+        count=0
+        while n>0:
+            n=n//5
+            count=count+n
+        return count
