@@ -7,9 +7,9 @@ class Solution(object):
         seen=set()
         ans=set()
         for i in range(len(s)-9):
-            x=s[i:i+10]
-            if x in seen:
-                ans.add(x)
+            seq=s[i:i+10]
+            if seq in seen:
+                ans.add(seq)
             else:
-                seen.add(x)
+                seen.add(seq)
         return list(ans)
