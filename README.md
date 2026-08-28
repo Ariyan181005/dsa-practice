@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ariyan181005/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ariyan181005/dsa-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ariyan181005/dsa-practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ariyan181005/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ariyan181005/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ariyan181005/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -605,4 +611,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
