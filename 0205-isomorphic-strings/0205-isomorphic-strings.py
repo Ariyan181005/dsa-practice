@@ -5,13 +5,13 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        a = {}
-        b = {}
-        for x, y in zip(s, t):
-            if x in a and a[x] != y:
-                return False
-            if y in b and b[y] != x:
-                return False
-            a[x] = y
-            b[y] = x
+        dic = {}
+        for i in range(len(s)):
+            if s[i] not in dic:
+                if t[i] in dic.values():
+                    return False
+                dic[s[i]] = t[i]
+            else:
+                if dic[s[i]] != t[i]:
+                    return False
         return True
