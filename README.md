@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ariyan181005/dsa-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ariyan181005/dsa-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ariyan181005/dsa-practice/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Ariyan181005/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ariyan181005/dsa-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bucket Sort
@@ -650,4 +654,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ariyan181005/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
