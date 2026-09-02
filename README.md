@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ariyan181005/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ariyan181005/dsa-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Ariyan181005/dsa-practice/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ariyan181005/dsa-practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Ariyan181005/dsa-practice/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0227-basic-calculator-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
