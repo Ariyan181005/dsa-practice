@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ariyan181005/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ariyan181005/dsa-practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Ariyan181005/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ariyan181005/dsa-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/Ariyan181005/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -735,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Ariyan181005/dsa-practice/tree/master/0223-rectangle-area) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ariyan181005/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
