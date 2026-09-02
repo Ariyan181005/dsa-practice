@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        """
         c1 = c2 = None
         n1 = n2 = 0
         for x in nums:
@@ -32,3 +33,16 @@ class Solution(object):
         if n2 > len(nums) // 3:
             ans.append(c2)
         return ans
+        """
+        n=len(nums)
+        fm={}
+        res=[]
+        for i in nums:
+            if i not in fm:
+                fm[i]=1
+            else:
+                fm[i]+=1
+        for j in fm:
+            if fm[j]>n/3:
+                res.append(j)
+        return res
