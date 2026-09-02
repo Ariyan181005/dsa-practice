@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Ariyan181005/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Ariyan181005/dsa-practice/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Ariyan181005/dsa-practice/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ariyan181005/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ariyan181005/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
 ## Iterator
 |  |
 | ------- |
