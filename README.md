@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Ariyan181005/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Ariyan181005/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ariyan181005/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ariyan181005/dsa-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Ariyan181005/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Ariyan181005/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ariyan181005/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ariyan181005/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ariyan181005/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
