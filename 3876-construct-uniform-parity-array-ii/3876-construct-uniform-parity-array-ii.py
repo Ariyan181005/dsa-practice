@@ -4,6 +4,7 @@ class Solution(object):
         :type nums1: List[int]
         :rtype: bool
         """
+        """
         mo = float('inf')
         for x in nums1:
             if x % 2 != 0:
@@ -14,3 +15,8 @@ class Solution(object):
             if x % 2 == 0 and x < mo:
                 return False
         return True
+        """
+        min_val = min(nums1)
+        if min_val % 2 != 0:
+            return True
+        return all(x % 2 == 0 for x in nums1)
