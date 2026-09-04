@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Ariyan181005/dsa-practice/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Ariyan181005/dsa-practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Ariyan181005/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Ariyan181005/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Ariyan181005/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
