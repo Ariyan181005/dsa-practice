@@ -1,18 +1,24 @@
 class Solution:
     def diffWaysToCompute(self, expression: str) -> List[int]:
-        ans = []
-        for i in range(len(expression)):
-            if expression[i] in "+-*":                
-                lt = self.diffWaysToCompute(expression[:i])
-                rt = self.diffWaysToCompute(expression[i + 1:])                
-                for a in lt:
-                    for b in rt:                        
-                        if expression[i] == '+':
-                            ans.append(a + b)
-                        elif expression[i] == '-':
-                            ans.append(a - b)
-                        else:
-                            ans.append(a * b)
-        if not ans:
-            ans.append(int(expression))
-        return ans
+        memo = {}
+        def dp(ex):
+            ret = []
+            if ex in memo:
+                return memo[ex]
+            if ex.isdigit():
+                return [int(ex)]
+            for i, c in enumerate(ex):
+                if c.isdigit():
+                    continue
+                lt = dp(ex[:i])
+                rt = dp(ex[i+1:])
+                for l in lt:
+                    for r in rt:
+                        if c == '+':
+                            ret.append(l + r)
+                        elif c == '-':
+                            ret.append(l-r)
+                        elif c == '*':
+                            ret.append(l*r)
+            return ret
+        return dp(expression)
