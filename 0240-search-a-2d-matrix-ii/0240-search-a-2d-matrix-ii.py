@@ -1,10 +1,5 @@
 class Solution(object):
     def searchMatrix(self, matrix, target):
-        """
-        :type matrix: List[List[int]]
-        :type target: int
-        :rtype: bool
-        """
         m=len(matrix)
         n=len(matrix[0])
         i=0
