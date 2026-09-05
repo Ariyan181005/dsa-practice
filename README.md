@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ariyan181005/dsa-practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Ariyan181005/dsa-practice/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0263-ugly-number) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
