@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Ariyan181005/dsa-practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Ariyan181005/dsa-practice/tree/master/0258-add-digits) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ariyan181005/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ariyan181005/dsa-practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Ariyan181005/dsa-practice/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ariyan181005/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ariyan181005/dsa-practice/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Ariyan181005/dsa-practice/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
