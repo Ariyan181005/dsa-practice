@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/Ariyan181005/dsa-practice/tree/master/0278-first-bad-version) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
@@ -835,4 +836,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ariyan181005/dsa-practice/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ariyan181005/dsa-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
