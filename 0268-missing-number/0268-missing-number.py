@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        """
         ma=max(nums)
         mi=min(nums)
         for i in range(mi,ma):
@@ -12,3 +13,7 @@ class Solution(object):
         if mi != 0:
             return 0
         return ma + 1
+        """
+        n= len(nums)
+        total = n * (n + 1) //2
+        return total - sum(nums)
