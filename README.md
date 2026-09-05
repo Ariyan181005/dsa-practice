@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ariyan181005/dsa-practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ariyan181005/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ariyan181005/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ariyan181005/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ariyan181005/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
