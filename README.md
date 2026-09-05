@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ariyan181005/dsa-practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ariyan181005/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ariyan181005/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ariyan181005/dsa-practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ariyan181005/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Ariyan181005/dsa-practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ariyan181005/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ariyan181005/dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -487,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Ariyan181005/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
