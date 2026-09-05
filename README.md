@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ariyan181005/dsa-practice/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0275-h-index-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ariyan181005/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0275-h-index-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
