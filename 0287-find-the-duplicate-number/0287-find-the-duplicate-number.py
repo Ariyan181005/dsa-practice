@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        """
         s = nums[0]
         f = nums[0]
         while True:
@@ -16,3 +17,11 @@ class Solution(object):
             s = nums[s]
             f = nums[f]
         return s
+        """
+        n=len(nums)
+        s=set()
+        for x in nums:
+            if x in s:
+                return x
+            else:
+                s.add(x)
