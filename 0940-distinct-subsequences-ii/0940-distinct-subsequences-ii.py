@@ -4,6 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        """
         m=10**9 +7
         dp=[0] * (len(s)+1)
         dp[0]=1
@@ -16,3 +17,13 @@ class Solution(object):
             dp[i]%=m
             lt[c]=dp[i-1]
         return (dp[len(s)]-1) % m
+        """
+        m = 10**9 + 7
+        dp = [0] * 26
+        ts = 0
+        for c in s:
+            i = ord(c) - ord('a')
+            nc = (ts + 1) % m
+            ts = (ts - dp[i] + nc) % m
+            dp[i] = nc
+        return ts
