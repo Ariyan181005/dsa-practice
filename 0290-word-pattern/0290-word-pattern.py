@@ -5,6 +5,8 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+        """
+        # Easy and fast
         words = s.split()
         if len(pattern) != len(words):
             return False
@@ -20,3 +22,7 @@ class Solution(object):
             p[a] = b
             w[b] = a
         return True
+        """
+        #short and fast
+        w = s.split()
+        return len(pattern) == len(w) and len(set(pattern)) == len(set(w)) == len(set(zip(pattern, w)))
