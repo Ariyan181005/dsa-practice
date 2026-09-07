@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Ariyan181005/dsa-practice/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Ariyan181005/dsa-practice/tree/master/0299-bulls-and-cows) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ariyan181005/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ariyan181005/dsa-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Ariyan181005/dsa-practice/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Ariyan181005/dsa-practice/tree/master/0299-bulls-and-cows) |
 | [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Ariyan181005/dsa-practice/tree/master/0299-bulls-and-cows) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
