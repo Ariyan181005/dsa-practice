@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Ariyan181005/dsa-practice/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ariyan181005/dsa-practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ariyan181005/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ariyan181005/dsa-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Ariyan181005/dsa-practice/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ariyan181005/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -778,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ariyan181005/dsa-practice/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
