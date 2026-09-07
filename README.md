@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ariyan181005/dsa-practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Ariyan181005/dsa-practice/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0284-peeking-iterator) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ariyan181005/dsa-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Ariyan181005/dsa-practice/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0284-peeking-iterator) |
 ## Rolling Hash
 |  |
 | ------- |
