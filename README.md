@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ariyan181005/dsa-practice/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Ariyan181005/dsa-practice/tree/master/0289-game-of-life) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ariyan181005/dsa-practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ariyan181005/dsa-practice/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Ariyan181005/dsa-practice/tree/master/0289-game-of-life) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ariyan181005/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ariyan181005/dsa-practice/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Ariyan181005/dsa-practice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Ariyan181005/dsa-practice/tree/master/0289-game-of-life) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ariyan181005/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
