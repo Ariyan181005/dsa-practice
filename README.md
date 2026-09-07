@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ariyan181005/dsa-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ariyan181005/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ariyan181005/dsa-practice/tree/master/0279-perfect-squares) |
+| [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 ## Minimax
