@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ariyan181005/dsa-practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/Ariyan181005/dsa-practice/tree/master/0283-move-zeroes) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ariyan181005/dsa-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ariyan181005/dsa-practice/tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
