@@ -4,11 +4,22 @@ class NumArray(object):
         :type nums: List[int]
         """
         self.n = len(nums)
-        self.tree = [0] * (2 * self.n)
+        self.nums = nums[:]
+        self.bit = [0] * (self.n + 1)
         for i in range(self.n):
-            self.tree[self.n + i] = nums[i]
-        for i in range(self.n - 1, 0, -1):
-            self.tree[i] = self.tree[2 * i] + self.tree[2 * i + 1]
+            self._updateBIT(i + 1, nums[i])
+
+    def _updateBIT(self, index, delta):
+        while index <= self.n:
+            self.bit[index] += delta
+            index += index & -index
+
+    def _query(self, index):
+        s = 0
+        while index > 0:
+            s += self.bit[index]
+            index -= index & -index
+        return s
 
     def update(self, index, val):
         """
@@ -16,12 +27,9 @@ class NumArray(object):
         :type val: int
         :rtype: None
         """
-        i = self.n + index
-        self.tree[i] = val
-        i //= 2
-        while i:
-            self.tree[i] = self.tree[2 * i] + self.tree[2 * i + 1]
-            i //= 2
+        delta = val - self.nums[index]
+        self.nums[index] = val
+        self._updateBIT(index + 1, delta)
 
     def sumRange(self, left, right):
         """
@@ -29,21 +37,7 @@ class NumArray(object):
         :type right: int
         :rtype: int
         """
-        left += self.n
-        right += self.n
-        ans = 0
-        while left <= right:
-            if left % 2 == 1:
-                ans += self.tree[left]
-                left += 1
-            if right % 2 == 0:
-                ans += self.tree[right]
-                right -= 1
-            left //= 2
-            right //= 2
-        return ans
-
-
+        return self._query(right + 1) - self._query(left)
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)
 # obj.update(index,val)
