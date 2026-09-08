@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/Ariyan181005/dsa-practice/tree/master/0310-minimum-height-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Ariyan181005/dsa-practice/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/Ariyan181005/dsa-practice/tree/master/0310-minimum-height-trees) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ariyan181005/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Ariyan181005/dsa-practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Ariyan181005/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Ariyan181005/dsa-practice/tree/master/0310-minimum-height-trees) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ariyan181005/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Ariyan181005/dsa-practice/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
