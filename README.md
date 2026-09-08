@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Ariyan181005/dsa-practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Ariyan181005/dsa-practice/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0306-additive-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ariyan181005/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0306-additive-number) |
 ## Stack
 |  |
 | ------- |
