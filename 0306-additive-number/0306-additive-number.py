@@ -5,27 +5,23 @@ class Solution(object):
         :rtype: bool
         """
         n = len(num)
+        def check(a, b, start):
+            while start < n:
+                c = a + b
+                s = str(c)
+                if num[start:start + len(s)] != s:
+                    return False
+                start += len(s)
+                a, b = b, c
+            return True
         for i in range(1, n):
+            if num[0] == '0' and i > 1:
+                break
+            a = int(num[:i])
             for j in range(i + 1, n):
-                a = num[:i]
-                b = num[i:j]
-                if len(a) > 1 and a[0] == '0':
-                    continue
-                if len(b) > 1 and b[0] == '0':
-                    continue
-                x = int(a)
-                y = int(b)
-                k = j
-                count = 2
-                while k < n:
-                    z = x + y
-                    s = str(z)
-                    if num[k:k + len(s)] != s:
-                        break
-                    k += len(s)
-                    x = y
-                    y = z
-                    count += 1
-                if k == n and count >= 3:
+                if num[i] == '0' and j - i > 1:
+                    break
+                b = int(num[i:j])
+                if check(a, b, j):
                     return True
         return False
