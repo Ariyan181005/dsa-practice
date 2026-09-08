@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Ariyan181005/dsa-practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ariyan181005/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Ariyan181005/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ariyan181005/dsa-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Ariyan181005/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0284-peeking-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
