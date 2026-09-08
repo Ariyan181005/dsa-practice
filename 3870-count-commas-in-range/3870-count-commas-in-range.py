@@ -4,6 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
+        """
         a=0
         p=1000
         c=1
@@ -12,3 +13,5 @@ class Solution(object):
             p*=1000
             c+=1
         return a
+        """
+        return max(n-999,0)
