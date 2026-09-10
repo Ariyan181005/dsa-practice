@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0307-range-sum-query-mutable) |
 | [0313-super-ugly-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ariyan181005/dsa-practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Ariyan181005/dsa-practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 | [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Ariyan181005/dsa-practice/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/Ariyan181005/dsa-practice/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ariyan181005/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -908,10 +911,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ariyan181005/dsa-practice/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ariyan181005/dsa-practice/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 ## Brainteaser
 |  |
 | ------- |
