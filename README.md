@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Ariyan181005/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ariyan181005/dsa-practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ariyan181005/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ariyan181005/dsa-practice/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ariyan181005/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ariyan181005/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
