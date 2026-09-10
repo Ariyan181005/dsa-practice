@@ -5,14 +5,15 @@ class Solution(object):
         :type primes: List[int]
         :rtype: int
         """
-        u = [1]
-        ind = [0] * len(primes)
+        m = len(primes)
+        ugly = [1] * n
+        idx = [0] * m
+        vals = primes[:]
         for i in range(1, n):
-            mn = float('inf')
-            for j in range(len(primes)):
-                mn = min(mn, primes[j] * u[ind[j]])
-            u.append(mn)
-            for j in range(len(primes)):
-                if primes[j] * u[ind[j]] == mn:
-                    ind[j] += 1
-        return u[-1]
+            nxt = min(vals)
+            ugly[i] = nxt
+            for j in range(m):
+                if vals[j] == nxt:
+                    idx[j] += 1
+                    vals[j] = ugly[idx[j]] * primes[j]
+        return ugly[-1]
