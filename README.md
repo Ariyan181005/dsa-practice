@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Ariyan181005/dsa-practice/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ariyan181005/dsa-practice/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Ariyan181005/dsa-practice/tree/master/0319-bulb-switcher) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ariyan181005/dsa-practice/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Ariyan181005/dsa-practice/tree/master/0319-bulb-switcher) |
 ## Impartial Game
 |  |
 | ------- |
