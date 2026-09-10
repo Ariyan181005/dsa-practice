@@ -4,16 +4,15 @@ class Solution(object):
         :type words: List[str]
         :rtype: int
         """
-        n = len(words)
-        m = []
-        for i in words:
-            ma = 0
-            for ch in i:
-                ma |= 1 << (ord(ch) - ord('a'))
-            m.append(ma)
-        ans = 0
-        for i in range(n):
-            for j in range(i + 1, n):
-                if m[i] & m[j] == 0:
-                    ans = max(ans, len(words[i]) * len(words[j]))
-        return ans
+        m = {}
+        for word in words:
+            mask = 0
+            for char in word:
+                mask |= 1 << (ord(char) - ord('a'))
+            m[mask] = max(m.get(mask, 0), len(word)) 
+        max_prod = 0
+        for mask1, len1 in m.items():
+            for mask2, len2 in m.items():
+                if (mask1 & mask2) == 0:
+                    max_prod = max(max_prod, len1 * len2) 
+        return max_prod
