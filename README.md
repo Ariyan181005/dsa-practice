@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0835-image-overlap](https://github.com/Ariyan181005/dsa-practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Ariyan181005/dsa-practice/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0835-image-overlap](https://github.com/Ariyan181005/dsa-practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ariyan181005/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
