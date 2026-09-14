@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Ariyan181005/dsa-practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Ariyan181005/dsa-practice/tree/master/0326-power-of-three) |
+| [0836-rectangle-overlap](https://github.com/Ariyan181005/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Ariyan181005/dsa-practice/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/Ariyan181005/dsa-practice/tree/master/0836-rectangle-overlap) |
 ## Queue
 |  |
 | ------- |
