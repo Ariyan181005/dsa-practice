@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Ariyan181005/dsa-practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Ariyan181005/dsa-practice/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/Ariyan181005/dsa-practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ariyan181005/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ariyan181005/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ariyan181005/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/Ariyan181005/dsa-practice/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Ariyan181005/dsa-practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ariyan181005/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Queue
 |  |
 | ------- |
