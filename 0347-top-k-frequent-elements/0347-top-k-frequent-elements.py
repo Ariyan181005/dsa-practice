@@ -1,5 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
+        """
         ans=[]
         dic={}
         for i in nums:
@@ -17,3 +18,7 @@ class Solution:
             ans.append(ele)
             del dic[ele]
         return ans
+        """
+        counter = Counter(nums)
+        sorted_arr = sorted(counter, key = lambda x: (counter[x], x), reverse = True)
+        return sorted_arr[:k]
