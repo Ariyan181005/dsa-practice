@@ -2,6 +2,9 @@ class Solution:
     def trap(self, height: list[int]) -> int:
         if not height:
             return 0
+        """
+        #easy but slow
+
         n = len(height)
         lmax = [0] * n
         rmax = [0] * n
@@ -20,3 +23,17 @@ class Solution:
             if sub > 0:
                 ans[i] = sub
         return sum(ans)
+        """
+        l, r = 0, len(height) - 1
+        lmax = rmax = 0
+        v = 0
+        while l < r:
+            if height[l] < height[r]:
+                lmax = max(lmax, height[l])
+                v += lmax - height[l]
+                l += 1
+            else:
+                rmax = max(rmax, height[r])
+                v += rmax - height[r]
+                r -= 1
+        return v
