@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ariyan181005/dsa-practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Ariyan181005/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ariyan181005/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0047-permutations-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ariyan181005/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ariyan181005/dsa-practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ariyan181005/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ariyan181005/dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ariyan181005/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Ariyan181005/dsa-practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ariyan181005/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ariyan181005/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ariyan181005/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ariyan181005/dsa-practice/tree/master/0055-jump-game) |
@@ -991,5 +995,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ariyan181005/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Ariyan181005/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
