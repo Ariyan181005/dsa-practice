@@ -25,15 +25,15 @@ class Solution:
         return sum(ans)
         """
         l, r = 0, len(height) - 1
-        lmax = rmax = 0
-        v = 0
+        lmax , rmax = height[l],height[r]
+        res = 0
         while l < r:
-            if height[l] < height[r]:
-                lmax = max(lmax, height[l])
-                v += lmax - height[l]
+            if lmax < rmax:
                 l += 1
+                lmax = max(lmax, height[l])
+                res += lmax - height[l]
             else:
-                rmax = max(rmax, height[r])
-                v += rmax - height[r]
                 r -= 1
-        return v
+                rmax = max(rmax, height[r])
+                res += rmax - height[r]
+        return res
