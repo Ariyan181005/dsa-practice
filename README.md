@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Ariyan181005/dsa-practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Ariyan181005/dsa-practice/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ariyan181005/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ariyan181005/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0835-image-overlap](https://github.com/Ariyan181005/dsa-practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ariyan181005/dsa-practice/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ariyan181005/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ariyan181005/dsa-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ariyan181005/dsa-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Ariyan181005/dsa-practice/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/Ariyan181005/dsa-practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -871,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ariyan181005/dsa-practice/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -925,11 +931,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ariyan181005/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ariyan181005/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
 |  |
 | ------- |
