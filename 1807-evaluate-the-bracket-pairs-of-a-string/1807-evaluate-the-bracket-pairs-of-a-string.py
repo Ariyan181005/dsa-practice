@@ -7,7 +7,6 @@ class Solution:
             if s[i] == '(':
                 j = s.index(')', i)
                 key = s[i + 1:j]
-
                 ans += d.get(key, '?')
                 i = j + 1
             else:
