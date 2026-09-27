@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ariyan181005/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ariyan181005/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Ariyan181005/dsa-practice/tree/master/1927-sum-game) |
@@ -488,12 +489,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ariyan181005/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
