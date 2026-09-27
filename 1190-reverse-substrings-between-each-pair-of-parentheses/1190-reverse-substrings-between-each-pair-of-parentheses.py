@@ -1,15 +1,8 @@
 class Solution:
     def reverseParentheses(self, s: str) -> str:
-        st = []
-        for ch in s:
-            if ch == ')':
-                temp = []
-
-                while st[-1] != '(':
-                    temp.append(st.pop())
-                st.pop()
-
-                st.extend(temp)
-            else:
-                st.append(ch)
-        return ''.join(st)
+        while '(' in s:
+            end=s.find(')')
+            start=s.rfind('(',0,end)
+            rev_substri=s[start+1:end][::-1]
+            s=s[:start]+rev_substri+s[end+1:]
+        return s
