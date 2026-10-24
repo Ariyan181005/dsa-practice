@@ -5,13 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def rec(self, root):
+        if root is None:
+            return 0, 0
+        left_included, left_not_included = self.rec(root.left)
+        right_included, right_not_included = self.rec(root.right)
+        curr_included = (root.val + left_not_included + right_not_included)
+        curr_not_included = max(left_included + right_included,left_included + right_not_included,left_not_included + right_included,left_not_included + right_not_included)
+        return curr_included, curr_not_included
     def rob(self, root: TreeNode | None) -> int:
-        def dfs(node):
-            if not node:
-                return 0, 0
-            left_rob, left_skip = dfs(node.left)
-            right_rob, right_skip = dfs(node.right)
-            rob_node = node.val + left_skip + right_skip
-            skip_node = max(left_rob, left_skip) + max(right_rob, right_skip)
-            return rob_node, skip_node
-        return max(dfs(root))
+        return max(self.rec(root))
