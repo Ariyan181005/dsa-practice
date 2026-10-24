@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ariyan181005/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ariyan181005/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0856-score-of-parentheses](https://github.com/Ariyan181005/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ariyan181005/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ariyan181005/dsa-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ariyan181005/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ariyan181005/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Ariyan181005/dsa-practice/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ariyan181005/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ariyan181005/dsa-practice/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -955,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1007,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ariyan181005/dsa-practice/tree/master/0225-implement-stack-using-queues) |
+| [0341-flatten-nested-list-iterator](https://github.com/Ariyan181005/dsa-practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Lifting
 |  |
 | ------- |
