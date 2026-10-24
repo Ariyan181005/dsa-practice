@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ariyan181005/dsa-practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Ariyan181005/dsa-practice/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Ariyan181005/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ariyan181005/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ariyan181005/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Ariyan181005/dsa-practice/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Ariyan181005/dsa-practice/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
