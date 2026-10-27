@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Ariyan181005/dsa-practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Ariyan181005/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ariyan181005/dsa-practice/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0343-integer-break) |
 | [0836-rectangle-overlap](https://github.com/Ariyan181005/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ariyan181005/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/Ariyan181005/dsa-practice/tree/master/1563-stone-game-v) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ariyan181005/dsa-practice/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Ariyan181005/dsa-practice/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Ariyan181005/dsa-practice/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ariyan181005/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
