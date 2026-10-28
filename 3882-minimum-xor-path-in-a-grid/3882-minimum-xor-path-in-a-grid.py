@@ -1,33 +1,53 @@
 class Solution:
     def minCost(self, grid: list[list[int]]) -> int:
-        m, n = len(grid), len(grid[0])
-        BITS = 1024
+        n = len(grid)
+        m = len(grid[0])
 
-        dp = [[False] * BITS for _ in range(n)]
-        dp[0][grid[0][0]] = True
+        masks = []
 
-        for i in range(m):
-            for j in range(n):
+        for b in range(10):
+            block = 1 << b
+            mask = 0
+            base = (1 << block) - 1
+
+            for p in range(block, 1024, 2 * block):
+                mask |= base << p
+
+            masks.append(mask)
+
+        def xor_shift(bits, x):
+            for b in range(10):
+                if (x >> b) & 1:
+                    block = 1 << b
+                    mask = masks[b]
+
+                    bits = (
+                        ((bits & mask) >> block)
+                        |
+                        ((bits & ~mask) << block)
+                    )
+
+            return bits
+
+        prev = [0] * m
+
+        for i in range(n):
+            cur = [0] * m
+
+            for j in range(m):
                 if i == 0 and j == 0:
-                    continue
+                    states = 1
+                elif i == 0:
+                    states = cur[j - 1]
+                elif j == 0:
+                    states = prev[j]
+                else:
+                    states = prev[j] | cur[j - 1]
 
-                value = grid[i][j]
-                curr = [False] * BITS
+                cur[j] = xor_shift(states, grid[i][j])
 
-                if i > 0:
-                    for x in range(BITS):
-                        if dp[j][x]:
-                            curr[x ^ value] = True
+            prev = cur
 
-                if j > 0:
-                    for x in range(BITS):
-                        if dp[j - 1][x]:
-                            curr[x ^ value] = True
+        states = prev[m - 1]
 
-                dp[j] = curr
-
-        for x in range(BITS):
-            if dp[n - 1][x]:
-                return x
-
-        return -1
+        return (states & -states).bit_length() - 1
