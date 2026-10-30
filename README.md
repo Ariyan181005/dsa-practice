@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Ariyan181005/dsa-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ariyan181005/dsa-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ariyan181005/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ariyan181005/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Ariyan181005/dsa-practice/tree/master/0310-minimum-height-trees) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ariyan181005/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ariyan181005/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ariyan181005/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Ariyan181005/dsa-practice/tree/master/0355-design-twitter) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ariyan181005/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -1109,4 +1112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Ariyan181005/dsa-practice/tree/master/0337-house-robber-iii) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ariyan181005/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
