@@ -1,20 +1,25 @@
-from collections import Counter
 class Solution:
     def countServers(self, n: int, logs: List[List[int]], x: int, queries: List[int]) -> List[int]:
-        logs.sort(key=lambda a: a[1])
-        q = sorted((t, i) for i, t in enumerate(queries))
-        freq = Counter()
-        ans = [0] * len(queries)
-        left = right = 0
-        for t, idx in q:
-            while right < len(logs) and logs[right][1] <= t:
-                freq[logs[right][0]] += 1
-                right += 1
-            while left < right and logs[left][1] < t - x:
-                server = logs[left][0]
-                freq[server] -= 1
-                if freq[server] == 0:
-                    del freq[server]
-                left += 1
-            ans[idx] = n - len(freq)
+        logs.sort(key = lambda x:x[1])
+        ids = sorted(range(len(queries)), key = lambda i:queries[i])
+        ans = [0]*len(queries)
+        cnt = [0]*(n+1)
+        beg = 0
+        end = 0
+        active = 0
+        for i in ids:
+            q = queries[i]
+            while end<len(logs) and logs[end][1]<=q:
+                id = logs[end][0]
+                if cnt[id]==0:
+                    active+=1
+                cnt[id]+=1
+                end+=1           
+            while  beg<end and logs[beg][1]<q-x:
+                id = logs[beg][0]
+                cnt[id]-=1
+                if cnt[id]==0:
+                    active-=1
+                beg+=1
+            ans[i] = n-active        
         return ans
