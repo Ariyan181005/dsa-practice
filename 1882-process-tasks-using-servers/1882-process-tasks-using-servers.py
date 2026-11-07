@@ -1,21 +1,36 @@
 class Solution:
     def assignTasks(self, servers: list[int], tasks: list[int]) -> list[int]:
-        busy = list()
-        idle = [(w, i) for i, w in enumerate(servers)]
-        heapq.heapify(idle)
-        ts = 0
-        def release():
-            while busy and busy[0][0] <= ts:
-                _, idx = heapq.heappop(busy)
-                heapq.heappush(idle, (servers[idx], idx))
-        ans = list()
-        for i, task in enumerate(tasks):
-            ts = max(ts, i)
-            release()
-            if not idle:
-                ts = busy[0][0]
-                release()
-            _, idx = heapq.heappop(idle)
-            ans.append(idx)
-            heapq.heappush(busy, (ts + task, idx))
-        return ans
+        free_servers = []
+        heapq.heapify(free_servers)
+        busy_servers = []
+        heapq.heapify(busy_servers)
+        for i in range(len(servers)):
+            s = servers[i]
+            heapq.heappush(free_servers, (s, i))
+        order = []
+        for i in range(len(tasks)):
+            task = tasks[i]
+            while busy_servers and busy_servers[0][0] <= i:
+                serv = heapq.heappop(busy_servers)
+                serv_weight = serv[1]
+                serv_idx = serv[2]
+
+                heapq.heappush(free_servers, (serv_weight, serv_idx))
+            if free_servers:
+                serv = heapq.heappop(free_servers)
+                serv_weight = serv[0]
+                serv_idx = serv[1]
+
+                next_free = i + task
+                heapq.heappush(busy_servers, (next_free, serv_weight, serv_idx))
+                order.append(serv_idx)
+            else:
+                serv = heapq.heappop(busy_servers)
+                serv_next_free = serv[0]
+                serv_weight = serv[1]
+                serv_idx = serv[2]
+
+                next_free = serv_next_free + task
+                heapq.heappush(busy_servers, (next_free, serv_weight, serv_idx))
+                order.append(serv_idx)        
+        return order   
